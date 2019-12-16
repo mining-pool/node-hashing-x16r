@@ -1,0 +1,20 @@
+{
+    "name": "hashing-x16r",
+    "version": "0.0.1",
+    "main": "hashing",
+    "author": {
+        "name": "Command M",
+        "email": "maoxs2@163.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maoxs2/node-hashing-x16r.git"
+    },
+    "dependencies": {
+        "bindings": "*"
+    },
+    "keywords": [
+        "x16r_hash",
+        "x16r"
+    ]
+}
